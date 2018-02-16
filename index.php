@@ -47,6 +47,6 @@
 	</div>
 	
 <?php include('modal.php'); ?>
-<script src="custom.js"></script>
+<script src="js/custom.js"></script>
 </body>
 </html>
